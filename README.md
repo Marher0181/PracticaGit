@@ -1,4 +1,9 @@
 "#Gestor de Tareas" 
 "Proyecto para practicar git." 
-"## Informaci¢n general" 
+
+"## Informaci√≥n general" 
 " Este proyecto permite gestionar tareas" 
+
+"##Funcionalidad Nueva" 
+" - Implementar creacion de tareas - " 
+
